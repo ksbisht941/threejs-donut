@@ -1,4 +1,4 @@
-# Three.js - Template - Simple
+# Three.js - Donut
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
