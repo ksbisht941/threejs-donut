@@ -1,0 +1,11 @@
+Model Information:
+* title:	Donut 2.0
+* source:	https://sketchfab.com/3d-models/donut-20-8d6cac74abfc4b408ec86c37661fa5a6
+* author:	¡Jacques (https://sketchfab.com/iJacques)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Donut 2.0" (https://sketchfab.com/3d-models/donut-20-8d6cac74abfc4b408ec86c37661fa5a6) by ¡Jacques (https://sketchfab.com/iJacques) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
